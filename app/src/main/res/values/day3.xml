@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="day_one_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 1. Introducere autocompasiune</h4>
+                <b>Marturia lui Dr. Kristen Neff (2011)</b>
+                Neff (2011) a scris despre experienta personala de a creste un copil diagnosticat cu
+                tulburare de spectru autist:
+                <br>
+                <i>Autocompasiunea m-a tras inapoi din prapastia disperarii continue atunci cand ma
+                luptam cu autismul lui Rowan. Ma intrebam cand a inceput mintea mea sa strabata
+                aleea neagra a fricii. Ma intrebam ce urmeaza sa se intample cu el: Va putea trai
+                vreodata independent? Incerc sa raman in momentul prezent. Sunt aici, acum. Rowan
+                este fericit si este in siguranta acum. Promit sa-mi dau voie mie insami sa fiu
+                calma si linistita cu mine. Cand imi linistesc mintea tulburata, sunt capabila sa
+                fiu echilibrata, fara a fi coplesita, intelegand ca indiferent de viitorul lui
+                Rowan, il voi iubi exact asa cum este.</i>
+                <br>
+                <p>
+                <b>Beneficiile autocompasiunii:</b>
+                <br>
+                Studiile arata ca persoanele care au abilitati de autocompasiune prezinta o stare de
+                bine crescuta, niveluri mai mari de speranta si capacitate mai mare de reangajare in
+                urmarirea unui scop. Intampina mai putine emotii precum depresie, anxietate, stres,
+                rusine si mai multe emotii precum fericire, satisfactie asupra vietii, incredere in
+                sine. Autocompasiunea asigura grija pentru propria viata emotionala si poate sa
+                ofere sens si conectare cu un moment dificil.  De asemenea, autocompasiunea este
+                asociata cu sanatate fizica, cu adoptarea unor comportamente sanatoase, printre
+                care activitate fizica, mese echilibrate, consum moderat de alcool.
+                <p>
+                <b>Ce este autocompasiunea?</b>
+                <br>
+                Uneori, suferinta este intampinata de rezistenta. Ne spunem uneori: “Nu mi se poate
+                intampla mie asa ceva”, gand care intensifica tensiunea emotionala pe care o
+                resimtim. Literatura de specialitate arata ca autocompasiunea este o alternativa
+                adaptativa, sanatoasa de a raspunde la suferinta emotionala. Autocompasiunea
+                este o cale spre acceptarea propriei persoane, proces care faciliteaza reglarea
+                emotionala si rezilienta in fata situatiilor provocatoare. Autocompasiunea este
+                 asemenea unui prieten iubitor si intelegator care este alaturi de noi. Urmatoarea
+                 ecuatie surprinde cele trei componente ale autocompasiunii: “Stiu ca acum sufar”
+                 (1) + “Stiu ca incerc sa imi creez fericirea”(2) + “Nu sunt singur in asta”(3) =
+                 “Imi doresc binele”. Cu alte cuvinte, autocompasiunea implica o constientizare
+                 deplina si obiectiva a momentului prezent (1), bunatate in raport cu propria
+                 persoana (2), respectiv recunoasterea faptului ca suferinta este mai degraba o
+                 caracteristica a existentei umane (3).
+                <p>
+                Speram ca v-am trezit curiozitatea asupra acestui concept psihologic. Urmeaza sa
+                parcugeti o serie de exercitii zilnice care dezvolta abilitatile de autocompasiune.
+                Va sugeram sa  practicati in mod consecvent fiecare exercitiu programat pentru
+                fiecare zi. Maine (incepand cu ora 00) este disponibil primul astfel de exercitiu.
+                <br>
+                In cazul in care aveti nelamuriri, ne puteti contacta la adresa de e-mail:
+                <br>
+                studiu.psihologic.autocompasiune@gmail.com
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_two_text">
+        <![CDATA[
+            <html>
+            <head>
+            </head>
+            <body style= text-align:justify>
+                <h4> 2. Sa te vezi pe tine insuti asa cum esti</h4>
+                Multi oameni cred ca sunt deasupra mediei in ceea ce priveste trasaturile personale
+                pe care le valorizeaza societatea. Cred ca sunt mai prietenosi, mai destepti, mai
+                atractivi decat majoritatea. Aceasta tendinta ne ajuta sa ne simtim bine cu noi
+                insine, dar acest lucru ne face sa ne simtim mai separati, mai izolati de ceilalti.
+                <br>
+                Acest exercitiu este construit pentru a ne ajuta sa ne vedem pe noi insine mai clar,
+                sa ne acceptam pe noi insine exact asa cum suntem. Toti oamenii au trasaturi
+                valorizate cultural care pot fi considerate mai bune decat  media, trasaturi medii
+                si unele care sunt sub medie. Putem accepta aceasta realitate cu bunatate si cu
+                calm?
+                <br>
+                Listeaza <b> cinci trasaturi </b> valorizate cultural care sunt <b>
+                deasupra mediei </b>:
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname">1:</label>
+                  <input type="text" id="fname" name="fname"><br>
+                  <label for="lname">2:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                  <label for="lname">3:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                    <label for="lname">4:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                    <label for="lname">5:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                 <br>
+                Listeaza <b> cinci trasaturi </b> valorizate cultural care se incadreaza <b>
+                in medie </b>:
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname">1:</label>
+                  <input type="text" id="fname" name="fname"><br>
+                  <label for="lname">2:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                  <label for="lname">3:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                    <label for="lname">4:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                    <label for="lname">5:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                <br>
+                Listeaza <b> cinci trasaturi </b> valorizate cultural care sunt <b> sub medie </b>:
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname">1:</label>
+                  <input type="text" id="fname" name="fname"><br>
+                  <label for="lname">2:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                  <label for="lname">3:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                    <label for="lname">4:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                    <label for="lname">5:</label>
+                  <input type="text" id="lname" name="lname"><br>
+                <br>
+                Considera lista completa de trasaturi de mai sus.
+                Poti accepta toate aceste fatete ale propriei tale persoane? A fi om nu inseamna sa
+                fii mai bun decat altii. A fi om inseamna sa cuprinzi lista completa de experiente
+                umane, pe cele pozitive, pe cele negative si pe cele neutre. A fi om inseamna sa te
+                incadrezi in medie in multe domenii. Poti celebra aceasta experienta de a fi in
+                viata pe aceasta planeta in toata complexitatea ei?
+                <br>
+                Exercitiu extras din cartea scrisa de Dr. Neff, K. (2011). Self-compassion: The
+                proven power of being kind to yourself. Harper Collins.
+
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i>Lumina unei lampi straluceste pana cand este stinsa si nu-si pierde razele, dar
+                adevarul din tine, dreptatea, moderatia pot fi oare stinse inainte de a te stinge
+                tu insuti?</i> -  Marc Aureliu, Catre sine, 12.15
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_three_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 3. O gura de respiratie adanca</h4>
+                Intinde-te confortabil pe spate si inchide incet ochii. Observa cum respiratia apare
+                natural, fara ca niciun gand sa faca sa se intample acest lucru. Lasa-te scufundat
+                pe podea sau pe canapea.
+                <br>
+                <ol>
+                <li> Asaza-ti o mana pe piept si cealalta pe burta. Cu ochii mintii, imagineaza-ti
+                un balon in spatele buricului tau, care se umple incet cu aer cand inspiri si se
+                goleste atunci cand expiri. Lasa-ti abdomenul sa se relaxeze.
+                <li> Fara a incerca sa controlezi sau sa fortezi respiratia intr-un fel, las-o sa
+                te conduca. Observa, poate, cum respiratia ta incetineste si se adanceste. Cand
+                respiratia se adanceste, se prelungeste si se incetineste, abdomenul tau se ridica
+                si coboara cu blandete, se extinde si se prabuseste.  In acest flux usor, ritmic,
+                observa, poate, daca mana de pe abdomen se misca mai mult decat cea de pe piept.
+                Acest lucru spune daca respiratia ta calatoreste prin piept, miscand muschiul
+                diafragmei in jos, precum si abdomenul. Daca nu e nicio diferenta intre miscarea
+                mainilor, nicio grija. In timp, urmarind respiratia cu o atentie relaxata,
+                respiratia ta, de una singura, se incetineste si se adanceste intr-o stare
+                naturala.
+                <li> Cu blandete, lasa-ti mainile si bratele de-o parte si de alta. Acum,
+                imagineaza-ti ca plutesti pe o saltea gonflabila in ocean intr-o zi insorita,
+                calduroasa. Vizualizeaza calatoria pe valurile oceanului: cand inspiri, abdomenul
+                creste incet, ca si cum esti ridicat de puterea valului. Atunci cand expiri,
+                abdomenul coboara incet, ca si cum esti purtat in jos de cealalta parte a valului.
+                <li> In timp ce respiri din <b> abdomen</b>, imagineaza-ti ca strabati un val cu
+                fiecare respiratie, Ia-ti cateva momente sa observi ce simti.
+                <li> Imagineaza-ti ca oceanul devine putin involburat. Pentru o scurta perioada,
+                lasa-ti  respiratia in <b> piept </b>, asa ca respiratia e scurta, mica si rapida,
+                potrivindu-se cu miscarea valurilor mai mici, mai scurte si mai rapide.
+                <li> In timp ce te angajezi in respiratia din piept, ia-ti cateva momente pentru a
+                observa ce simti.
+                <li> Acum, imagineaza-ti ca se intorc valurile la miscarile blande, incete
+                anterioare in timp ce  respiratia devine inceata si adanca. Cand practici respiratia
+                abdominala, pe deplin si liber, abdomenul se ridica in timpul inspiratiei si
+                coboara in timpul expiratiei.
+                <li> In timp ce respiri in acest mod, ia-ti cateva minute sa observi starea ta de
+                spirit. Cand esti gata sa parasesti  oceanul, deschide incet ochii.
+                </ol>
+                Ai observat vreo diferenta intre aceste doua stari? Daca nu, nu e nicio problema.
+                Ofera-ti mai mult timp sa exersezi si revino mai tarziu.
+                <br>
+                Exercitiu extras din cartea scrisa de Marotta, J. (2013). 50 Mindful Steps to
+                Self-esteem: Everyday Practices for Cultivating Self-acceptance and Self-compassion.
+                New Harbinger Publications.
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i>Este demn de atentie si remarcabil sa vezi cum omul, pe langa viata sa in
+                concret, traieste intotdeauna si o a doua viata, in abstract…[unde], in sfera calmei
+                deliberari, ceea ce mai inainte il stapanise  cu totul si il miscase profund, i se
+                pare acum rece, incolor si indepartat: este un simplu spectator si observator</i>
+                - Mann, Thomas, Essays of Three Decased, trad. H.T. Lowe - Porter, Alfred A. Knopf,
+                New York, 1947, p. 373
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_four_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 4. Pauza de autocompasiune</h4>
+                Gandeste-te la o situatie dificila, stresanta din viata ta. Pastreaza acel eveniment
+                in minte si incearca sa simti stresul, disconfortul emotional in corpul tau.
+                <br>
+                Acum spune-ti tie insuti:
+                <ol>
+                <li> “Acesta este un moment de suferinta”. Alte variante pot include: “Acest lucru
+                doare”, “Acesta este un moment de stres” (<b>Recunoasterea </b> suferintei).
+                <li> “Suferinta este o componenta a vietii”. Alte variante pot include: “Si alti
+                oameni simt la fel”, “Nu sunt singura”, “Cu totii ne luptam in viata”
+                (<b>Universalitatea</b> suferintei).
+                Acum asaza-ti palmele in zona inimii, simte caldura mainilor tale si atingerea lor
+                blanda pe piept. Continua sa iti spui:
+                <li> “Promit sa imi ofer compasiunea de care am nevoie”. Alte variante pot include:
+                “Promit sa invat sa ma accept pe mine insumi asa cum sunt”, “Promit sa ma iert”,
+                “Promit sa fiu puternic(a)”, “Promit sa fiu rabdator(toare)” sau orice altceva
+                functioneaza pentru tine (<b>Angajament</b> pentru reducerea suferintei).
+                </ol>
+                Exercitiul poate fi folosit oricand, gandindu-te la cele trei elemente ale
+                autocompasiunii.
+                <br>
+                Exercitiu extras de pe site-ul oficial al Dr. Kristen Neff
+                (https://self-compassion.org/)
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i>Ceea ce nu ne omoara, ne face mai puternici</i> - Nietzsche F, ‘‘Why I am
+                so Wise’’, reprinted-Penguin Press Great Ideas series (ISBN 0141018976), 2005.
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_five_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 5. Reducerea stresului în cazul parintilor care au copi cu nevoi speciale </h4>
+                Daca esti intr-o astfel de ipostaza, este important sa faci alegeri intelepte in
+                privinta activitatilor pe care le faci pentru a nu fi suprasolicitat(a). Chiar daca
+                este imposibil sa scapi in intregime de tot stresul, poti sa te ajuti. In fiecare
+                domeniu de viata de mai jos, identifica acele comportamente care te ajuta momentan
+                sa gestionezi stresul  de a avea un copil cu nevoi speciale. <br>
+                Identifica activitatile care nu te ajuta, care cresc nivelul de stres si apoi,
+                noteaza fiecare idee de schimbare pentru a putea ca tu sa ai mai multa grija de
+                tine insuti (insati).
+                <ol>
+                <li> <b> Activitati fizice </b> (de exemplu, alimentatie, dieta, somn) </li>
+
+                <form action="/action_page.php">
+                  <label for="fname">Ce ajuta?</label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                  <label for="lname">Ce nu ajuta?</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                  <label for="lname">Schimbari:</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                 <br>
+
+                <li> <b> Activitati psihologice </b> (de exemplu, terapie, carti, muzica) </li>
+                <form action="/action_page.php">
+                  <label for="fname">Ce ajuta?</label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                  <label for="lname">Ce nu ajuta?</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                  <label for="lname">Schimbari:</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                 <br>
+
+                <li> <b> Activitati legate de relationare </b> (de exemplu, familie, grupuri,
+                intimitate)  </li>
+                <form action="/action_page.php">
+                  <label for="fname">Ce ajuta?</label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                  <label for="lname">Ce nu ajuta?</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                  <label for="lname">Schimbari:</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                 <br>
+
+                <li> <b> Activitati legate de locul de munca </b> (de exemplu, ore de lucru pe
+                saptamana, timpul petrecut in fata ecranului, pauze)</li>
+                <form action="/action_page.php">
+                  <label for="fname">Ce ajuta?</label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                  <label for="lname">Ce nu ajuta?</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                  <label for="lname">Schimbari:</label>
+                  <input type="text" id="lname" name="lname"><br><br>
+                </ol>
+                Exercitiu extras din cartea lui Neff, K., & Germer, C. (2018). The Mindful
+                Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner
+                Strength, and Thriveÿ ÿ. Guilford Publications.
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i> Nu uita ca esti un actor intr-o drama aleasa de cineva mult mai mare decat tine.
+                Vei juca putin, daca a ales-o scurta, mult, daca a ales-o lunga. Ti-a impartit rolul
+                unui sarac? Joaca-l bine, cu tot farmecul lui. Ti-a cazut rolul schiopului, al
+                magistratului, al plebeului? Aceeasi datorie. Caci atata e al tau: sa joci frumos
+                rolul primit, dar alegerea lui nu e treaba ta </i>- Epictet,
+                Manualul, 17
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_six_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+
+                <h4> 6. Cum aș trata un prieten</h4>
+                Scrie mai jos raspunsurile la urmatoarele intrebari:
+                <br>
+                <ol>
+                <li>In primul rand, gandeste-te la momentele in care un prieten apropiat se simte
+                foarte rau in raport cu el/ea insusi(insasi) sau un prieten care are o suferinta de
+                un anumit fel. Cum i-ai raspunde acelui prieten in aceasta situatie? Scrie ce ai
+                face in mod tipic, ce i-ai spune si observa tonul cu care ai vorbi de obicei cu
+                prietenul tau.
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname"></label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                <li>
+                Acum gandeste-te la momentele in care tu te simti rau in raport cu tine
+                insuti(insati) sau la momentele in care si tu porti o lupta. Cum ti-ai
+                raspunde de obicei in astfel de situatii? Scrie ce ai face in mod tipic,
+                ce ai spune si observa tonul cu care ti-ai vorbi de obicei tie insuti(insati).
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname"></label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                <li>
+                Ai observat vreo diferenta? Daca da, intreaba-te de ce. Care sunt factorii sau
+                fricile care joaca un rol important si care te fac sa te tratezi diferit fata de
+                cum ii tratezi pe ceilalti?
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname"></label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                <li>
+                Noteaza care crezi ca sunt lucrurile care s-ar putea schimba daca ti-ai raspunde in
+                aceeasi maniera precum i-ai raspunde de obicei prietenului apropiat atunci cand
+                sufera. Incearca sa te tratezi pe tine insuti(insati) ca pe un prieten bun si
+                observi ce se intampla.
+                <br>
+                <form action="/action_page.php">
+                  <label for="fname"></label>
+                  <input type="text" id="fname" name="fname"><br><br>
+                </ol>
+                Exercitiu extras de pe site-ul oficial al Dr. Kristen Neff
+                (https://self-compassion.org/)
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i>Dragostea este indelung rabdatoare, este plina de bunatate, dragostea nu
+                pizmuieşte, dragostea nu se lauda, nu se umfla de mandrie </i>  - 1 Corinteni 13:4-7
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_seven_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 7. Plimbarea plină de compasiune </h4>
+                Planuieste o plimbare de 10 minute sau mai mult, oriunde ti-ar placea. Dedica timpul
+                acesta pentru a cultiva bunatatea si compasiunea.
+                <br>
+                <ol>
+                <li>Stai nemiscat(a) pentru un moment si directioneaza-ti atentia spre corpul tau.
+                Fii constient(a) de tine insuti(insati) in postura pe care o ai, stand in picioare.
+                Fii atent(a) la corpul tau.</li>
+                <li>Aminteste-ti ca fiecare fiinta isi doreste sa traiasca fericita si in pace.
+                Conecteaza-te cu aceasta dorinta profunda: “Asa cum toate fiintele isi doresc sa
+                fie fericite si eliberate de suferinta, asa imi doresc si eu sa fiu fericit(a)
+                si eliberat(a) de suferinta.”</li>
+                <li>Poti incepe sa mergi. Observa-te pe tine insuti(insati) mergand in pozitie
+                verticala. Fii atent(a) la senzatiile din corpul tau, poate la presiunea picioarelor
+                tale pe pamant sau la vantul care bate spre fata ta. Pastreaza-ti privirea usoara si
+                continua sa mergi in pas normal.</li>
+                <li>Dupa o plimbare de cateva minute, continua sa iti repeti urmatoarele afirmatii
+                pline de bunatate si iubire:</li>
+                <i>Sa fiu in siguranta.</i></li>
+                <br>
+                <i>Sa fiu fericit(a).</i>
+                <br>
+                <i>Sa fiu sanatos(oasa).</i>
+                <br>
+                <i>Sa traiesc cu usurinta.</i>
+                <li>Aceste propozitii iti vor directiona atentia spre corpul tau si vor incepe sa
+                evoce bunatatea si iubirea. Incearca sa sincronizezi fiecare afirmatie cu fiecare
+                pas, cu fiecare respiratie. Ar putea sa ajute scurtarea propozitiilor  la un singur
+                cuvant:
+                <br>
+                <i>Siguranta, fericit(a), sanatos(oasa), cu usurinta </i> sau <i>iubire, iubire,
+                iubire, iubire </i>. </li>
+                <li>Cand mintea se rataceste, intoarce-te cu blandete la afirmatii. Daca observi
+                ca te grabesti spre destinatie, incetineste usor si focalizeaza-te asupra scopului
+                pe care il are plimbarea.</li>
+                <li>Fa acest lucru cu bunatate, mai ales cu un sentiment de recunostinta fata de
+                picioarele tale care reusesc sa iti sustina intregul corp. Apreciaza miracolul pe
+                care il aduce actiunea de a merge.</li>
+                <li>Dupa cateva minute, extinde iubirea si bunatatea la ceilalti. Iti poti spune
+                urmatoarele: </li>
+                <i>Fie ca noi sa fim in siguranta.</i>
+                <br>
+                <i>Fie ca noi sa fim fericiti.</i>
+                <br>
+                <i>Fie ca noi sa fim sanatosi.</i>
+                <br>
+                <i>Fie ca noi sa traim cu usurinta.</i>
+                <li>Ai putea spune doar: <i>in siguranta, fericiti, sanatosi, cu usurinta </i> sau
+                <i>iubire, iubire, iubire, iubire.</i>
+                <li>Nu incerca sa incluzi pe toata lumea. Gandeste-te doar la o persoana, pastrand
+                bunatatea si iubirea fata de aceasta. </li>
+                <li>In cele din urma, include toate formele de viata in ciclul iubirii si al
+                bunatatii tale (de exemplu, caini, pasari, insecte, plante, etc.). Da-ti voie sa
+                primesti orice forma de bunatate care vine spre tine.</li>
+                <li>La sfarsitul plimbarii, stai in picioare drept pentru un moment si spune-ti:
+                <i><b> Fie ca toate fiintele sa fie fericite si eliberate de suferinta</i></b>
+                inainte de a merge la urmatoarea activitate pe care o ai de facut.</li>
+                </ol>
+                <br>
+                Exercitiu extras din cartea lui Neff, K., & Germer, C. (2018). The Mindful
+                Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner Strength,
+                and Thriveÿ ÿ. Guilford Publications.
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i> Cea mai mare intelepciune e sa faci din bucuria prezentului obiectul suprem al
+                vietii, caci aceasta este singura realitate, celelalte nefiind decat un joc al
+                mintii.</i> - Mann, Thomas, Essays of Three Decased, trad. H.T. Lowe - Porter,
+                Alfred A. Knopf, New York, 1947, p. 373
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_eight_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 8. A privi necazul cu atitudinea de compasiune</h4>
+                Atunci cand manifesti autocompasiune pentru a  incerca sa alungi durerea sau pentru
+                a deveni o persoana mai buna, incearca sa iti redirectionezi atentia  de la formele
+                subtile de rezistenta. Practica aceste exercitii pur si simplu pentru ca suntem cu
+                totii fiinte umane imperfecte care traiesc o viata imperfecta. Viata este grea.
+                Acest exercitiu poate fi facut oricand te afecteaza ceva.
+                <br>
+                <ol>
+                <li>Gandeste-te la o situatie care iti aduce suferinta emotionala pentru ca te face
+                sa te simti inadecvat(a) intr-un fel. Poate ai facut ceva ce regreti sau poate ai
+                esuat intr-un domeniu important pentru tine. Alege o problema de intensitate usoara
+                - moderata, nu o problema mare, deoarece dorim sa construim gradual resurse de
+                autocompasiune. </li>
+                <li>Poti simti disconfortul in corpul tau atunci cand iti vine acea situatie in
+                minte? Daca nu, alege o situatie mai dificila, dar daca simti prea mult disconfort,
+                alege alta situatie.</li>
+                <li>Odata ce simti disconfortul emotional, observa daca poti accepta in intregime
+                acea suferinta. Lasa-ti inima sa se topeasca atunci cand simti aceste sentimente
+                dificile, las-o sa te aline si ai grija de tine insuti (insati) pentru ca e atat
+                de dificil. Oare poti sa iti oferi tie insuti (insati) in acest moment prezenta
+                ta iubitoare si conectata?</li>
+                <li>Respira adanc de doua sau de trei ori si inchide ochii pentru cateva momente
+                pentru a te pregati. Pune-ti mana la inima sau fa un alt gest caracterizat de
+                suport si autocompasiune.</li>
+                <li>Incearca sa iti vorbesti tie insuti (insati), tare sau incet, folosind cuvinte
+                pline de caldura, sprijin, compasiune. De exemplu:
+                <br>
+                <i>Imi pare atat de rau ca te simti asa rau in legatura cu tine insuti (insati)
+                acum, dar aceste trairi nu vor dura o vesnicie. Sunt aici pentru tine. Va fi bine.
+                <br>
+                Durerea esecului este aproape coplesitoare. Nu o pot face sa dispara, dar voi
+                incerca sa am curaj, rabdare si inima deschisa.
+                <br>
+                <i>Wow, chiar am dat-o in bara. Imi doresc sa nu o fi facut, dar am facut-o. E
+                chiar greu sa te simti asa. Nu e nimic ce as putea sa fac ca sa schimb faptul ca
+                sunt o fiinta umana imperfecta care uneori greseste. Promit sa incerc sa ma accept
+                pe mine insumi(insami) cu intelegere si cu bunatate.</i></li>
+                </i></li>
+                <li>Poti sa te lasi pe tine insuti (insati) sa fii o fiinta umana completa? Poti
+                sa incepi prin a renunta la perfectiune si prin a recunoaste ca faci tot ce poti tu
+                mai bine? Incearca sa iti vorbesti folosind aceste cuvinte care confirma
+                imperfectiunea, dar care ofera si un sentiment de acceptare neconditionata.
+                Poti folosi astfel de cuvinte cu un prieten sau  cu cineva de care chiar iti
+                pasa. De exemplu: <i> Este in regula sa privesti necazul cu o atitudine de
+                compasiune, e in regula sa fii imperfect.</i>
+                </ol>
+                Exercitiu extras din cartea lui Neff, K., & Germer, C. (2018). The Mindful
+                Self-Compassion Workbook: A Proven Way to Accept Yourself, Build Inner
+                Strength, and Thriveÿ ÿ. Guilford Publications.
+                <br>
+                Va invitam sa reflectati asupra cuvintelor de mai jos:
+                <br>
+                <i> A fost bagat in temnita. Dar observatia "a fost supus suferintelor" este o
+                completare a ta. </i> - Epictet, Diatribe, 3.8.5b-6a
+            </body>
+            </html>
+        ]]>
+    </string>
+
+    <string name="day_nine_text">
+        <![CDATA[
+            <html>
+            <head></head>
+            <body style= text-align:justify>
+                <h4> 9. Completarea chestionarelor</h4>
+                <b>Felicitari!</b> Ati parcurs toate exercitiile interventiei auto-administrate!
+                <br>
+                In continuare, va invitam sa completati cele cinci chestionare psihologice de mai
+                jos pentru a putea masura starea dvs. psihologica. Este foarte <b>important</b> ca
+                dvs. sa completati aceste scale pana la final pentru a fi inclus(a) in acest studiu!
+                <br><br>
+                <b>Apasand <q>Am terminat</q>, veti fi redirectionat(a) spre formularul care contine
+                chestionarele psihologice. Va rugam sa va conectati la o sursa de Internet (Wi-Fi
+                sau date mobile).</b>
+                <br>
+                Va multumim!
+             </body>
+             </html>
+         ]]>
+    </string>
+
+    <string name="promise_day_one">
+        <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                    </head>
+                    <body>
+                        <h3> Promit sa fiu puternic!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_two">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa fiu recunoscator!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_three">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa fiu orientat spre prezent!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_four">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa fiu multumit cu mine!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_five">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa fiu intelegator!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_six">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa traiesc in pace!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_seven">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa fiu in siguranta!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_eight">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Promit sa traiesc in armonie!</h3>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+    <string name="promise_day_nine">
+                <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h3 {
+                          text-align: center;
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h3> Veti fi redirectionat(a) spre formularul care contine chestionarele
+                        psihologice. </h3> <p> In cazul in care nu ati fost redirectionat(a), va
+                        rugam sa accesati <a href="https://forms.gle/1S6gKH9dphgRypoU9">
+                        Formular </a> </p>
+
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+
+    <string name="splash_view_welcome">
+    <![CDATA[   <html>
+                    <head>
+                        <style>
+                        h1 {
+                          text-align: center;
+                           color: rgba(49,6,134,255);
+                        }
+                        </style>
+                        </head>
+                    <body>
+                        <h1> Bine ati venit!</h1>
+                    </body>
+                    </html>
+
+                ]]>
+    </string>
+
+    <string name="finish_day">
+        Am terminat
+    </string>
+</resources>
